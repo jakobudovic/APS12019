@@ -26,6 +26,7 @@ vhodne in izhodne datoteke (args[0] in args[1]). Vhodna datoteka vsebuje začetn
 navodila za operacije, ki naj se nad njim izvedejo. Izhodna datoteka vsebuje elemente seznama po
 končani izvedbi vsake zahtevane operacije.
 
+<br>
 Tekstovna vhodna datoteka je podana v naslednjem formatu:
 
 - V prvi vrstici je zapisano začetno stanje seznama. Vrednosti posameznih elementov so ločene
