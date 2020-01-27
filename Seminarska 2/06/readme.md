@@ -1,1 +1,2 @@
 ## Šesta naloga
+\[x^n]
